@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to left top, #3e2551, #6c2e62, #9b3669, #c84366, #ed5a5a);
+    height: 100vh;
+    width: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image {
+    width: 400px;
+    height: auto;
+} 
